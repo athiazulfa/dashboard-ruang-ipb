@@ -4,4 +4,4 @@ openpyxl
 plotly
 numpy
 supabase
-scipy>=1.15
+
